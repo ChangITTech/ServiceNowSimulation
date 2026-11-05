@@ -98,7 +98,7 @@ The dashboard helps technicians identify outstanding incidents, determine priori
 
 ### Screenshot (Optional)
 
-![ServiceNow Incident Dashboard](Screenshots/part1.PNG)
+![ServiceNow Incident Dashboard](https://github.com/ChangITTech/ServiceNowSimulation/blob/7d21860c2407289b7d8550faefb3e92458664903/img/part1.PNG)
 
 </details>
 
