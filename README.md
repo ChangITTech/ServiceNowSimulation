@@ -379,7 +379,7 @@ This scenario demonstrates the documentation workflow for a simulated resolution
 
 ### Screenshot ()
 
-<!-- Add a screenshot of the resolved incident here. -->
+<!-- Add a  of the resolved incident here. -->
 <!-- ![Incident Resolution](Screenshots/part9.PNG) -->
 
 </details>
