@@ -96,7 +96,7 @@ Each incident has a unique identifier that allows IT support teams to track the 
 
 The dashboard helps technicians identify outstanding incidents, determine priorities, and monitor assigned work.
 
-### Screenshot (Optional)
+### Screenshot ()
 
 ![ServiceNow Incident Dashboard](https://github.com/ChangITTech/ServiceNowSimulation/blob/7d21860c2407289b7d8550faefb3e92458664903/img/part1.PNG)
 
@@ -139,7 +139,7 @@ Creating an incident establishes a formal record of a reported IT issue.
 
 Accurate incident descriptions help technicians understand the symptoms, determine the affected infrastructure, and begin troubleshooting.
 
-### Screenshot (Optional)
+### Screenshot ()
 
 ![New Incident Form](Screenshots/part2.PNG)
 
@@ -190,7 +190,7 @@ A Priority 2 - High incident requires prompt investigation and resolution accord
 
 The DNS subcategory was an initial classification, not confirmation of the root cause.
 
-### Screenshot (Optional)
+### Screenshot ()
 
 ![Incident Priority Configuration](Screenshots/part3.PNG)
 
@@ -231,7 +231,7 @@ The Assigned To field identifies the individual technician responsible for the i
 
 Proper incident assignment establishes accountability and supports escalation between different technical support teams.
 
-### Screenshot (Optional)
+### Screenshot ()
 
 ![Incident Assignment](Screenshots/part4.PNG)
 
@@ -274,7 +274,7 @@ An incident in the In Progress state indicates that investigation or resolution 
 
 ServiceNow also maintains an activity history that records updates to incident fields and journal entries.
 
-### Screenshot (Optional)
+### Screenshot ()
 
 ![Incident In Progress](Screenshots/part6.PNG)
 
@@ -325,7 +325,7 @@ Work notes differ from customer-visible comments, which are intended to communic
 
 Maintaining accurate investigation records helps other technicians understand the incident and continue troubleshooting if the ticket is reassigned or escalated.
 
-### Screenshot (Optional)
+### Screenshot ()
 
 ![Incident Investigation Work Notes](Screenshots/part8.PNG)
 
@@ -377,7 +377,7 @@ ServiceNow distinguishes between Resolved and Closed states.
 
 This scenario demonstrates the documentation workflow for a simulated resolution rather than an actual server repair.
 
-### Screenshot (Optional)
+### Screenshot ()
 
 <!-- Add a screenshot of the resolved incident here. -->
 <!-- ![Incident Resolution](Screenshots/part9.PNG) -->
