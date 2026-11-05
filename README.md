@@ -141,7 +141,7 @@ Accurate incident descriptions help technicians understand the symptoms, determi
 
 ### Screenshot ()
 
-![New Incident Form](Screenshots/part2.PNG)
+![New Incident Form](https://github.com/ChangITTech/ServiceNowSimulation/blob/523d03acb8a1b4bce6b970eff886c8dde4807d44/img/part2.PNG)
 
 </details>
 
@@ -192,7 +192,7 @@ The DNS subcategory was an initial classification, not confirmation of the root 
 
 ### Screenshot ()
 
-![Incident Priority Configuration](Screenshots/part3.PNG)
+![Incident Priority Configuration](https://github.com/ChangITTech/ServiceNowSimulation/blob/523d03acb8a1b4bce6b970eff886c8dde4807d44/img/part3.PNG)
 
 </details>
 
@@ -233,7 +233,7 @@ Proper incident assignment establishes accountability and supports escalation be
 
 ### Screenshot ()
 
-![Incident Assignment](Screenshots/part4.PNG)
+![Incident Assignment](https://github.com/ChangITTech/ServiceNowSimulation/blob/523d03acb8a1b4bce6b970eff886c8dde4807d44/img/part4.PNG)
 
 </details>
 
@@ -276,7 +276,7 @@ ServiceNow also maintains an activity history that records updates to incident f
 
 ### Screenshot ()
 
-![Incident In Progress](Screenshots/part6.PNG)
+![Incident In Progress](https://github.com/ChangITTech/ServiceNowSimulation/blob/523d03acb8a1b4bce6b970eff886c8dde4807d44/img/part5.PNG)
 
 </details>
 
@@ -327,7 +327,7 @@ Maintaining accurate investigation records helps other technicians understand th
 
 ### Screenshot ()
 
-![Incident Investigation Work Notes](Screenshots/part8.PNG)
+![Incident Investigation Work Notes](https://github.com/ChangITTech/ServiceNowSimulation/blob/523d03acb8a1b4bce6b970eff886c8dde4807d44/img/part7.PNG)
 
 </details>
 
@@ -380,7 +380,7 @@ This scenario demonstrates the documentation workflow for a simulated resolution
 ### Screenshot ()
 
 <!-- Add a  of the resolved incident here. -->
-<!-- ![Incident Resolution](Screenshots/part9.PNG) -->
+<!-- ![Incident Resolution](https://github.com/ChangITTech/ServiceNowSimulation/blob/523d03acb8a1b4bce6b970eff886c8dde4807d44/img/part11.PNG) -->
 
 </details>
 
